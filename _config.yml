@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/person.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea, Pohang"
-  email            : kimgt@postech.ac.kr
+  email            : "kimgt@postech.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
