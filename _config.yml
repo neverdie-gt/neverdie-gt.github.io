@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Kyungtae Kim"
-title_separator          : "--"
-subtitle                 : Plasma Physicist and Engineering # site tagline that appears below site title in masthead
+title_separator          : "="
+subtitle                 : I'm a Plasma Physicist and Engineer # site tagline that appears below site title in masthead
 name                     : "Kyungtae Kim"
 description              : "Introduce my experiences, publications, and proud things through this page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -27,7 +27,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -101,12 +101,12 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+author: 
+  name             : "Kyungtae Kim"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea, Pohang"
+  email            : kimgt@postech.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
